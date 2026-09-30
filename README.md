@@ -5,14 +5,14 @@ Homebrew casks for [IndieGoodies](https://indiegoodies.com) apps.
 ## Install
 
 ```sh
-brew install indiegoodies/tap/<cask>
+brew install indiegoodies/tap/<app>
 ```
 
 Or tap first, then install:
 
 ```sh
 brew tap indiegoodies/tap
-brew install --cask <cask>
+brew install --cask <app>
 ```
 
 ## Apps
