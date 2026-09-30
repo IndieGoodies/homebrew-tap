@@ -1,18 +1,26 @@
-# Indiegoodies Tap
+# IndieGoodies Homebrew Tap
 
-## How do I install these formulae?
+Homebrew casks for [IndieGoodies](https://indiegoodies.com) apps: PastePal, Almighty, Coolbar, Starview.
 
-`brew install indiegoodies/tap/<formula>`
+## Install
 
-Or `brew tap indiegoodies/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "indiegoodies/tap"
-brew "<formula>"
+```sh
+brew install indiegoodies/tap/pastepal
 ```
+
+Or tap first, then install:
+
+```sh
+brew tap indiegoodies/tap
+brew install --cask pastepal
+```
+
+## Available casks
+
+| App | Install |
+|---|---|
+| PastePal | `brew install indiegoodies/tap/pastepal` |
 
 ## Documentation
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+`brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
