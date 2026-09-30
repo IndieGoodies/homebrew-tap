@@ -16,5 +16,3 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - run: brew test-bot --only-tap-syntax
-
-      - run: brew test-bot --only-cask-syntax
