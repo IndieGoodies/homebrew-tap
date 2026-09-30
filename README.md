@@ -1,25 +1,31 @@
 # IndieGoodies Homebrew Tap
 
-Homebrew casks for [IndieGoodies](https://indiegoodies.com) apps: PastePal, Almighty, Coolbar, Starview.
+Homebrew casks for [IndieGoodies](https://indiegoodies.com) apps.
 
 ## Install
 
 ```sh
-brew install indiegoodies/tap/pastepal
+brew install indiegoodies/tap/<cask>
 ```
 
 Or tap first, then install:
 
 ```sh
 brew tap indiegoodies/tap
-brew install --cask pastepal
+brew install --cask <cask>
 ```
 
-## Available casks
+## Apps
 
-| App | Install |
-|---|---|
-| PastePal | `brew install indiegoodies/tap/pastepal` |
+### PastePal
+
+Universal clipboard manager for Mac, iPhone, and iPad.
+
+```sh
+brew install indiegoodies/tap/pastepal
+```
+
+[indiegoodies.com/pastepal](https://indiegoodies.com/pastepal)
 
 ## Documentation
 
