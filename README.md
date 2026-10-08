@@ -27,6 +27,16 @@ brew install indiegoodies/tap/pastepal
 
 [indiegoodies.com/pastepal](https://indiegoodies.com/pastepal)
 
+### Overcal
+
+Menu bar calendar with agenda, world clocks and meeting reminders.
+
+```sh
+brew install indiegoodies/tap/overcal
+```
+
+[indiegoodies.com/overcal](https://indiegoodies.com/overcal)
+
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
