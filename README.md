@@ -37,6 +37,16 @@ brew install indiegoodies/tap/overcal
 
 [indiegoodies.com/overcal](https://indiegoodies.com/overcal)
 
+### Typefu
+
+Text expander with fill-in snippets, selected text actions and on-device AI.
+
+```sh
+brew install indiegoodies/tap/typefu
+```
+
+[indiegoodies.com/typefu](https://indiegoodies.com/typefu)
+
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
