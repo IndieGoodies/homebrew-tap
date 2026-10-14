@@ -1,8 +1,8 @@
 cask "overcal" do
   version "1.2.2"
-  sha256 "635816e37942947eb13a8dbeea0f20a691560eeb938fd2f340baafce2c802209"
+  sha256 "c4401a3f26202052b3c6fe3cbaa3193ba6210869be11d3f523cff97657d34275"
 
-  url "https://github.com/IndieGoodies/Overcal/releases/download/#{version}/Overcal.zip"
+  url "https://github.com/IndieGoodies/Overcal/releases/download/#{version}/Overcal.dmg"
   name "Overcal"
   desc "Menu bar calendar with agenda, world clocks and meeting reminders"
   homepage "https://indiegoodies.com/overcal"

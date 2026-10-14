@@ -1,8 +1,8 @@
 cask "cleana" do
   version "1.3.0"
-  sha256 "a959637d1e06682e6c57ed85fe2575c9ab79a999cb844861c6823bca67920368"
+  sha256 "8ef61b574d0ddba9ae7803597236dfc94ce95e06a587fd62d16559503b742b3d"
 
-  url "https://github.com/IndieGoodies/Cleana/releases/download/#{version}/Cleana.zip"
+  url "https://github.com/IndieGoodies/Cleana/releases/download/#{version}/Cleana.dmg"
   name "Cleana"
   desc "Cleaner for developer caches, build output, simulators and app leftovers"
   homepage "https://indiegoodies.com/cleana"

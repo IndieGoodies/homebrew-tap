@@ -1,8 +1,8 @@
 cask "typefu" do
-  version "1.1.0"
-  sha256 "916143d0a1d2c0deeb1005ac81c31cd3ee65448260bc732246b39395b3ecc6ac"
+  version "1.1.1"
+  sha256 "e84bedbf2eb7d0a856be82b72fc7cdeea04fb116dfc8531e1de34eae03bcb67f"
 
-  url "https://github.com/IndieGoodies/Typefu/releases/download/#{version}/Typefu.zip"
+  url "https://github.com/IndieGoodies/Typefu/releases/download/#{version}/Typefu.dmg"
   name "Typefu"
   desc "Text expander with fill-in snippets, selected text actions and on-device AI"
   homepage "https://indiegoodies.com/typefu"

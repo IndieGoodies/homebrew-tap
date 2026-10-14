@@ -1,8 +1,8 @@
 cask "almighty" do
   version "2.13.1"
-  sha256 "9016a20907e37bbf047e29f6b109a6196db4052a8cc41699108fbab15a2229e8"
+  sha256 "89db65de8ea244ddb8d43c0d630392fa30574a5f2d24208204784d24c552135c"
 
-  url "https://github.com/IndieGoodies/Almighty/releases/download/#{version}/Almighty.zip"
+  url "https://github.com/IndieGoodies/Almighty/releases/download/#{version}/Almighty.dmg"
   name "Almighty"
   desc "System tweaks and utilities, from hidden settings to notch actions"
   homepage "https://indiegoodies.com/almighty"
