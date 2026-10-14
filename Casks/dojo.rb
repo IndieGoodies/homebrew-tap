@@ -1,6 +1,6 @@
 cask "dojo" do
-  version "1.0.0"
-  sha256 "acfbee57b4221ca780fd317d655bcc200deef1d5e8f1185ba15d5f00f99beafa"
+  version "1.1.0"
+  sha256 "4cb0d81eb0fe45a6367bbce700d91ad36f1d3c82621acd210eb70fb050866f78"
 
   url "https://github.com/IndieGoodies/Dojo/releases/download/v#{version}/Dojo.zip"
   name "Dojo"
