@@ -1,6 +1,6 @@
 cask "cleana" do
-  version "1.0.0"
-  sha256 "8ab4f683fcc8dd17f51e6e57db25c0ad9a6234e24e13a1c5f9cdafb9940f0b78"
+  version "1.1.0"
+  sha256 "dbdf1940d23e3993a3e88b6c656527724858946a564da001057bb6e782cee7ef"
 
   url "https://github.com/IndieGoodies/Cleana/releases/download/#{version}/Cleana.zip"
   name "Cleana"
