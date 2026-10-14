@@ -57,6 +57,16 @@ brew install indiegoodies/tap/dojo
 
 [github.com/IndieGoodies/Dojo](https://github.com/IndieGoodies/Dojo)
 
+### Cleana
+
+Cleaner for developer caches, build output, simulators and app leftovers.
+
+```sh
+brew install indiegoodies/tap/cleana
+```
+
+[indiegoodies.com/cleana](https://indiegoodies.com/cleana)
+
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
