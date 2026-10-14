@@ -47,6 +47,16 @@ brew install indiegoodies/tap/typefu
 
 [indiegoodies.com/typefu](https://indiegoodies.com/typefu)
 
+### Dojo
+
+Developer tools for formatting, converting, encoding and generating. Apple Silicon only.
+
+```sh
+brew install indiegoodies/tap/dojo
+```
+
+[github.com/IndieGoodies/Dojo](https://github.com/IndieGoodies/Dojo)
+
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
