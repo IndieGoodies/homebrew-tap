@@ -1,6 +1,6 @@
 cask "overcal" do
-  version "1.2.2"
-  sha256 "94bc249a1f8b6d6944b4d70fd1c27070e5f6ffc7da3d39dd8c7d28230f1b3e30"
+  version "1.2.3"
+  sha256 "778d65dc81207d8a8395e3120c713bbb6c542be111958aa707054e01972c7855"
 
   url "https://github.com/IndieGoodies/Overcal/releases/download/#{version}/Overcal.dmg"
   name "Overcal"
