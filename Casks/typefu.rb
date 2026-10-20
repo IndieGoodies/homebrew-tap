@@ -1,6 +1,6 @@
 cask "typefu" do
-  version "1.1.3"
-  sha256 "4509486c8ca1dc84ee87b792ad70bbd7c7d5ab126bd689094ac214e5a6f90020"
+  version "1.1.4"
+  sha256 "42c7d0cf5a3f01ecb84338b44f1a2ca6b65406fa43b3b6c4ce0e08afbb4119e5"
 
   url "https://github.com/IndieGoodies/Typefu/releases/download/#{version}/Typefu.dmg"
   name "Typefu"
