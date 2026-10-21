@@ -67,6 +67,16 @@ brew install indiegoodies/tap/cleana
 
 [indiegoodies.com/cleana](https://indiegoodies.com/cleana)
 
+### Coolbar
+
+Menu bar bookmarks for files, links, text and images.
+
+```sh
+brew install indiegoodies/tap/coolbar
+```
+
+[indiegoodies.com/coolbar](https://indiegoodies.com/coolbar)
+
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
