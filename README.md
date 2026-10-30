@@ -77,6 +77,16 @@ brew install indiegoodies/tap/coolbar
 
 [indiegoodies.com/coolbar](https://indiegoodies.com/coolbar)
 
+### Turbo
+
+Keyboard-first launcher with clipboard history, snippets, AI and extensions.
+
+```sh
+brew install indiegoodies/tap/turbo
+```
+
+[indiegoodies.com/turbo](https://indiegoodies.com/turbo)
+
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
