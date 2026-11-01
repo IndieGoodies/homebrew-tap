@@ -1,6 +1,6 @@
 cask "turbo" do
-  version "1.0.0"
-  sha256 "4e160f955890cc382e4368de22b1151d48f27c079f65d1b69b3767af5a4a4524"
+  version "1.0.1"
+  sha256 "0db387b99f2d03c07b43e618994cd5fe16687a49d25b98d08554428cd4703c2e"
 
   url "https://github.com/IndieGoodies/Turbo/releases/download/#{version}/Turbo.dmg"
   name "Turbo"
