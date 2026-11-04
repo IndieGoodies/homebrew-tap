@@ -87,6 +87,16 @@ brew install indiegoodies/tap/turbo
 
 [indiegoodies.com/turbo](https://indiegoodies.com/turbo)
 
+### Breather
+
+Break reminder for eye rest, stretching and posture.
+
+```sh
+brew install indiegoodies/tap/breather
+```
+
+[indiegoodies.com/breather](https://indiegoodies.com/breather)
+
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
