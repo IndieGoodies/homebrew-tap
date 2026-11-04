@@ -97,6 +97,16 @@ brew install indiegoodies/tap/breather
 
 [indiegoodies.com/breather](https://indiegoodies.com/breather)
 
+### SaveMode
+
+Menu bar data usage monitor that blocks chosen apps on hotspots.
+
+```sh
+brew install indiegoodies/tap/savemode
+```
+
+[indiegoodies.com/savemode](https://indiegoodies.com/savemode)
+
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
