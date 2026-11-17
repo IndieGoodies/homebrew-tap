@@ -1,6 +1,6 @@
 cask "pastepal" do
-  version "2.22.3"
-  sha256 "61ff6b649cde4c261d0cb455a998e7f76c84bacf6c379228f0b4ced5d31a6623"
+  version "2.22.4"
+  sha256 "deb34b1dd08973d7ea13cd350d3fcaf5f66b169cdbaf4da799019918f3be898a"
 
   url "https://github.com/IndieGoodies/PastePal/releases/download/#{version}/PastePal.dmg"
   name "PastePal"
