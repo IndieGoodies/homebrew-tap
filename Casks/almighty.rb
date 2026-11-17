@@ -1,6 +1,6 @@
 cask "almighty" do
-  version "2.13.6"
-  sha256 "94bc83b1464130a842ee033bd581d4d77af10681e4b30991ff4f210514a9ce9c"
+  version "2.13.8"
+  sha256 "b6e5cfda75043fbc96b8d805db5332ed899b63cf3dbf15af8f383c26becf464c"
 
   url "https://github.com/IndieGoodies/Almighty/releases/download/#{version}/Almighty.dmg"
   name "Almighty"
