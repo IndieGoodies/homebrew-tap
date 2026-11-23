@@ -37,6 +37,16 @@ brew install indiegoodies/tap/overcal
 
 [indiegoodies.com/overcal](https://indiegoodies.com/overcal)
 
+### Mailfan
+
+Email client with one inbox for every account, keyboard triage and local AI.
+
+```sh
+brew install indiegoodies/tap/mailfan
+```
+
+[indiegoodies.com/mailfan](https://indiegoodies.com/mailfan)
+
 ### Typefu
 
 Text expander with fill-in snippets, selected text actions and on-device AI.
