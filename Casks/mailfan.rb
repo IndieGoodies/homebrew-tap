@@ -1,6 +1,6 @@
 cask "mailfan" do
-  version "1.0.2"
-  sha256 "d489b029f3fb7ace1f1659edef7d54bec0f86ca1a143037b31461a63d3c56acc"
+  version "1.0.3"
+  sha256 "7ee35cbcc3c3c39b45750d7ce38ecadceec16d480116a44eeea75224a73af1f2"
 
   url "https://github.com/IndieGoodies/Mailfan/releases/download/#{version}/Mailfan.dmg"
   name "Mailfan"
