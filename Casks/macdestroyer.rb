@@ -1,6 +1,6 @@
 cask "macdestroyer" do
-  version "1.2.0"
-  sha256 "e598eb1afdce53e3c31fd33745315cdb4084056e74f9022f05018a2340aecb1d"
+  version "1.2.1"
+  sha256 "33e0979f016e146db46c552988cf818d63d2e6599f39446df123e19c2136e3c6"
 
   url "https://github.com/IndieGoodies/MacDestroyer/releases/download/#{version}/MacDestroyer.dmg"
   name "MacDestroyer"
