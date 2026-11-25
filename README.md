@@ -27,6 +27,16 @@ brew install indiegoodies/tap/pastepal
 
 [indiegoodies.com/pastepal](https://indiegoodies.com/pastepal)
 
+### Notemall
+
+Notes app that keeps every note as a Markdown file in your folder.
+
+```sh
+brew install indiegoodies/tap/notemall
+```
+
+[indiegoodies.com/notemall](https://indiegoodies.com/notemall)
+
 ### Overcal
 
 Menu bar calendar with agenda, world clocks and meeting reminders.
