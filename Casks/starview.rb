@@ -1,6 +1,6 @@
 cask "starview" do
-  version "1.7.9"
-  sha256 "2a30f95a8944ab629ea5421a111dd516daf58d0db96a6e08109d4536360f510b"
+  version "1.8.0"
+  sha256 "981195e34f2b2ef75e184f6c5bc3fe9791baa559ba748fe64396535038da9734"
 
   url "https://github.com/IndieGoodies/Starview/releases/download/#{version}/Starview.dmg"
   name "Starview"
