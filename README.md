@@ -120,3 +120,13 @@ brew install indiegoodies/tap/savemode
 ## Documentation
 
 `brew help`, `man brew`, or [Homebrew's documentation](https://docs.brew.sh).
+
+### Starview
+
+App Store keyword research and rank tracking.
+
+```sh
+brew install indiegoodies/tap/starview
+```
+
+[indiegoodies.com/starview](https://indiegoodies.com/starview)
