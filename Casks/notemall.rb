@@ -1,6 +1,6 @@
 cask "notemall" do
-  version "1.1.0"
-  sha256 "3a43c2eac9b73e74d84d536225e7c59cd0642eaf075db8cf030412a403ed6e71"
+  version "1.1.1"
+  sha256 "98828e2a3602306b9cacaead47f14cd1ddd03793392cfd34bd8a0731555ada7c"
 
   url "https://github.com/IndieGoodies/Notemall/releases/download/#{version}/Notemall.dmg"
   name "Notemall"
